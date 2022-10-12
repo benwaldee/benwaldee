@@ -29,7 +29,9 @@
 
 - :zap: In my free time, I do songwriting for DJs / reality TV and play videogames with friends from college!
 
-- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benwaldee/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](b1.waldee@gmail.com)
+- :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benwaldee/) <a href="mailto:b1.waldee@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
+  </a>
 
 ---
 
