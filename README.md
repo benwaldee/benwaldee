@@ -27,7 +27,7 @@
 
 - :seedling: Experimenting with AWS and Websockets.
 
-- :zap: In my free time, I do songwriting for DJs / reality TV and play videogames with friends from college!
+- :zap: In my free time I row :rowboat:, songwrite for DJs/reality TV :black_nib:, and play videogames with friends from college :video_game:!
 
 - :mailbox: How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benwaldee/) <a href="mailto:b1.waldee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
