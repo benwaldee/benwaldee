@@ -15,11 +15,9 @@
  <h1 align="center">
      Hello! My name is Ben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="500" height="200"/>
-</div>
 
----
+
+
 
 ### :man_technologist: About Me :
 :wave: I am a Full Stack Software Engineer from Saint Louis.
