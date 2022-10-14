@@ -8,6 +8,9 @@
   <a href="mailto:b1.waldee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/>
   </a>
+   <a href="https://benwaldee.github.io/#">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="gmail badge"/>
+  </a>
  </div>
  <div align="center" >
  <img  src="https://komarev.com/ghpvc/?username=benwaldee&style=flat-square&color=blue"  align="center" alt=""/>
