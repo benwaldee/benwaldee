@@ -28,7 +28,7 @@
 
 - :eyes: See Crunchyscroll and my other two full stack websites in my pinned repositories!
 
-- :seedling: Experimenting with AWS and Websockets.
+- :seedling: Experimenting with AWS and Java.
 
 - :zap: In my free time I row :rowboat:, songwrite for DJs/reality TV :black_nib:, and play videogames with friends from college :video_game:!
 
