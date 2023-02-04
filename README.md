@@ -23,7 +23,7 @@
 
 
 ### :man_technologist: About Me :
-:wave: I am a Full Stack Software Engineer from Saint Louis.
+:wave: I am a Full Stack Software Engineer from the Midwest.
 - :telescope: I am currently job-searching and working on my full-stack web application Crunchyscroll. 
 
 - :eyes: See Crunchyscroll and my other two full stack websites in my pinned repositories!
