@@ -26,7 +26,7 @@
 :wave: I am a Full Stack Software Engineer from the Midwest.
 - :telescope: I am currently job-searching and working on my full-stack web application Crunchyscroll. 
 
-- :eyes: See Crunchyscroll and my other two full stack websites in my pinned repositories!
+- :eyes: See Crunchyscroll and my other two full-stack websites in my pinned repositories!
 
 - :seedling: Experimenting with AWS and Java.
 
